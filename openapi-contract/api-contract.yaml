@@ -3,7 +3,7 @@ info:
   title: {{API_NAME}} API
   description: |
     The {{API_NAME}} API is an open API covering the {{BUSINESS_AREA}} area in Equinor.
-    ААА
+    
     This document describes release v0.1.0. We recommend using documentation published at https://equinor.github.io/api-first-workbench as it provides the best developer experience.
     Information on the next release v0.2.0 is available at [this page](https://equinor.github.io/api-first-workbench/latest/)
 
